@@ -1,3 +1,8 @@
+"""
+Find the Phantom Game
+Developed by Maria Chmite, Salim El Ghersse, and Mohamed Ouballouk.
+"""
+
 import tkinter as tk
 from gui import PhantomHunterGame
 
