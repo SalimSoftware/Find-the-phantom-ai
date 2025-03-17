@@ -65,8 +65,8 @@ python main.py
 ---
 
 ## 👥 Contributors
-- **Maria Chmite** - [@MariaChmite](https://github.com/MariaChmite)
 - **Salim El Ghersse** - [@SalimElGhersse](https://github.com/SalimElGhersse)
+- **Maria Chmite** - [@MariaChmite](https://github.com/MariaChmite)
 - **Mohamed Ouballouk** - [@MohamedOuballouk](https://github.com/MohamedOuballouk)
 
 🔹 Special thanks to **Dr. Tajeddine Rachidi** for guidance and support!
@@ -79,8 +79,8 @@ This project is **open-source** and free to use. Contributions are welcome! 🚀
 ---
 
 ## 📫 Connect With Us
-💡 **Maria Chmite** – [GitHub](https://github.com/MariaChmite) | [LinkedIn](https://linkedin.com/in/maria-chmite)
 💡 **Salim El Ghersse** – [GitHub](https://github.com/SalimElGhersse)
+💡 **Maria Chmite** – [GitHub](https://github.com/MariaChmite) | [LinkedIn](https://linkedin.com/in/maria-chmite)
 💡 **Mohamed Ouballouk** 
 
 ---
